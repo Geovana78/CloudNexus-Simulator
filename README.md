@@ -210,4 +210,4 @@ Tailwind CSS — Framework visual
 
 Netlify — Hosting gratuito
 
-<p align="center">💙 Hecho con pasión por la comunidad CloudNexus</p> <div align="center"> ⭐ Si este proyecto te ayudó, ¡no olvides dejar una estrella! ⭐ <br/> <sub>Desarrollado con ❤️ por Geovana Sepúlveda | © 2025 CloudNexus Simulator</sub><br/> <sub>Proyecto educativo sin afiliación oficial con Microsoft Corporation</sub> </div> `
+<p align="center">💙 Hecho con pasión por la comunidad CloudNexus</p> <div align="center"> ⭐ Si este proyecto te ayudó, ¡no olvides dejar una estrella! ⭐ <br/> <sub>Desarrollado con ❤️ por Geovana Sepúlveda | © 2025 CloudNexus Simulator</sub><br/> <sub>Proyecto educativo sin afiliación oficial con Microsoft Corporation</sub> </div> ``
