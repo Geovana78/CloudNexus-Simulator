@@ -19,7 +19,6 @@
 ---
 
 ## 📖 Tabla de Contenidos
-
 - [Acerca del Proyecto](#-acerca-del-proyecto)
 - [Características Principales](#-características-principales)
 - [Tecnologías](#-tecnologías)
@@ -39,7 +38,6 @@
 **CloudNexus Simulator** es una plataforma educativa de código abierto diseñada para **estudiantes y profesionales de TI** que desean dominar la administración de identidades y accesos en **Microsoft Entra ID** (antes Azure AD).
 
 ### 🌟 ¿Por qué CloudNexus?
-
 - 💰 **Sin costos de Azure:** practica sin necesidad de suscripciones de pago.  
 - 🎓 **Aprendizaje práctico:** aprende haciendo, no solo leyendo.  
 - 🏆 **Gamificación:** sistema de puntos, retos y niveles de dificultad.  
@@ -47,7 +45,6 @@
 - 📱 **100% responsivo:** funciona en cualquier dispositivo.  
 
 ### 🎓 Ideal para:
-
 - Estudiantes preparándose para **SC-300** (*Microsoft Identity and Access Administrator*).  
 - Administradores de sistemas en transición a la nube.  
 - Equipos de seguridad que necesitan comprender **IAM en Azure**.  
@@ -88,40 +85,16 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React 18
-    </td>
-    <td align="center" width="96">
-      <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      <br>Vite 5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript ES6+
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br>React 18</td>
+    <td align="center" width="96"><img src="https://vitejs.dev/logo.svg" width="48" height="48"/><br>Vite 5</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48"/><br>Tailwind CSS</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br>JavaScript ES6+</td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://lucide.dev/logo.dark.svg" width="48" height="48" alt="Lucide" />
-      <br>Lucide Icons
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
-      <br>npm
-    </td>
+    <td align="center" width="96"><img src="https://lucide.dev/logo.dark.svg" width="48" height="48"/><br>Lucide Icons</td>
+    <td align="center" width="96"><img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48"/><br>Netlify</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br>Git</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48"/><br>npm</td>
   </tr>
 </table>
 
@@ -135,31 +108,30 @@
 - **Git**
 
 ### Pasos
-
 ```bash
 git clone https://github.com/Geovana78/CloudNexus-Simulator.git
 cd CloudNexus-Simulator
 npm install
 npm run dev
-Abre tu navegador en http://localhost:5173
+Luego abre tu navegador en
+👉 http://localhost:5173
 
 Build para Producción
+bash
+Copiar código
 npm run build
 npm run preview
-
 💡 Uso
-
 Crea tu primer usuario: en el panel de Usuarios.
 
 Asigna un rol: por ejemplo, Global Admin o Security Reader.
 
-Configura MFA: desde el panel de seguridad.
+Configura MFA: desde el panel de Seguridad.
 
-Completa tu primer reto: empieza en el nivel fácil.
+Completa tu primer reto: empieza en el nivel Fácil.
 
 🗺 Roadmap
 ✅ Versión Actual (v1.0)
-
 Gestión básica de usuarios y grupos
 
 Simulación de MFA
@@ -169,7 +141,6 @@ Sistema de retos y puntos
 Tres niveles de dificultad
 
 🚧 En Desarrollo (v1.5)
-
 Tema oscuro/claro
 
 Exportación de configuraciones a JSON
@@ -179,7 +150,6 @@ Panel de analíticas avanzadas
 Modo colaborativo
 
 🔮 Futuro (v2.0)
-
 Integración con Microsoft Graph API (sandbox)
 
 Badges digitales de certificación
@@ -191,45 +161,36 @@ Soporte para inglés
 App móvil nativa
 
 🤝 Contribuir
-
 ¡Las contribuciones son bienvenidas!
 
-Fork el proyecto
+Haz un fork del proyecto
 
 Crea una rama (git checkout -b feature/NuevaFuncionalidad)
 
-Realiza tus cambios y haz commit
+Realiza tus cambios y commit
 
 Envía un Pull Request
 
-Este proyecto sigue el Contributor Covenant
-.
+Este proyecto sigue el Contributor Covenant.
 
 📄 Licencia
-
 Distribuido bajo la Licencia Apache 2.0.
 Consulta el archivo LICENSE para más información.
 
 👩‍💻 Contacto
-
 Geovana Sepúlveda
 Microsoft Identity & Cloud Security Enthusiast
 
 
 
 
-
-
 ☕ Apoya el Proyecto
-
 Si CloudNexus Simulator te ha sido útil en tu aprendizaje o carrera profesional, considera apoyar su desarrollo:
 
 <div align="center"> <a href="https://buymeacoffee.com/geo.salud"> <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /> </a>
-
 ⭐ O simplemente deja una estrella en GitHub ⭐
 
 </div>
-
 Tu apoyo ayuda a:
 
 Desarrollar nuevas funcionalidades
@@ -241,24 +202,12 @@ Mantener el hosting y dominio
 Ampliar la comunidad CloudNexus
 
 🙏 Reconocimientos
+Microsoft Learn — Documentación oficial de Entra ID
 
-Microsoft Learn
- — Documentación oficial de Entra ID
+React Icons — Iconografía del proyecto
 
-React Icons
- — Iconografía del proyecto
+Tailwind CSS — Framework visual
 
-Tailwind CSS
- — Framework visual
+Netlify — Hosting gratuito
 
-Netlify
- — Hosting gratuito
-
-<p align="center">💙 Hecho con pasión por la comunidad CloudNexus</p> <div align="center">
-
-⭐ Si este proyecto te ayudó, no olvides dejar una estrella ⭐
-<br/>
-<sub>Desarrollado con ❤️ por Geovana Sepúlveda | © 2025 CloudNexus Simulator</sub><br/>
-<sub>Proyecto educativo sin afiliación oficial con Microsoft Corporation</sub>
-
-</div> ```
+<p align="center">💙 Hecho con pasión por la comunidad CloudNexus</p> <div align="center"> ⭐ Si este proyecto te ayudó, ¡no olvides dejar una estrella! ⭐ <br/> <sub>Desarrollado con ❤️ por Geovana Sepúlveda | © 2025 CloudNexus Simulator</sub><br/> <sub>Proyecto educativo sin afiliación oficial con Microsoft Corporation</sub> </div> `
