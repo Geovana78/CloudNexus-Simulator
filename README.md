@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="público/icono.png" alt="CloudNexus Simulator" width="200" />
+  <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/icon.png" alt="CloudNexus Simulator" width="200" />
 
   # ☁️ CloudNexus Simulator
 
@@ -7,15 +7,12 @@
 
   [![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-00C7B7?logo=netlify&logoColor=white)](https://cloudnexus89.netlify.app/)
   [![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-  [![Vite](https://img.shields.io/badge/Vite-5+-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3+-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-  [**Demo en Vivo**](https://cloudnexus89.netlify.app/) • [**Reportar Bug**](https://github.com/Geovana78/CloudNexus-Simulator/issues) • [**Solicitar Feature**](https://github.com/Geovana78/CloudNexus-Simulator/issues)
+  [**Demo en Vivo**](https://cloudnexus89.netlify.app/) • [**Reportar Bug**](https://github.com/Geovana78/CloudNexus-Simulator/issues)
 
-  <img src="público/Copia de WhatsApp Image 2025-10-04 a las 14.15.57.png" alt="CloudNexus Preview" width="700" style="border-radius: 10px; margin-top: 20px;" />
+  <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/icon.png" alt="CloudNexus Preview" width="600" style="border-radius: 10px; margin-top: 20px;" />
 </div>
-
 ---
 
 ## 📖 Tabla de Contenidos
