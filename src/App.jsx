@@ -617,12 +617,12 @@ const CloudNexusSimulator = () => {
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900 text-white p-8">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
-            {/* ✅ LOGO PERSONALIZADO - REEMPLAZADO */}
+            {/* ✅ LOGO PERSONALIZADO - ACTUALIZADO CON NEXUS.PNG */}
             <div className="flex justify-center mb-8">
               <div className="relative">
                 <div className="p-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-3xl shadow-2xl transform hover:scale-105 transition-all duration-300">
                   <img 
-                    src="/icon.png" 
+                    src="/nexus.png" 
                     alt="CloudNexus Simulator" 
                     className="w-28 h-28 object-contain"
                   />
