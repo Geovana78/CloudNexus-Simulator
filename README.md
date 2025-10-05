@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./público/icono.png" alt="CloudNexus Simulator" width="180" />
+  <img src="público/icono.png" alt="CloudNexus Simulator" width="200" />
 
   # ☁️ CloudNexus Simulator
 
@@ -13,11 +13,134 @@
 
   [**Demo en Vivo**](https://cloudnexus89.netlify.app/) • [**Reportar Bug**](https://github.com/Geovana78/CloudNexus-Simulator/issues) • [**Solicitar Feature**](https://github.com/Geovana78/CloudNexus-Simulator/issues)
 
-  <br><br>
-
-  <img src="./público/Copia%20de%20WhatsApp%20Image%202025-10-04%20a%20las%2014.15.57.png" alt="Vista previa de CloudNexus" width="720" style="border-radius: 10px; margin-top: 20px;" />
+  <img src="público/Copia de WhatsApp Image 2025-10-04 a las 14.15.57.png" alt="CloudNexus Preview" width="700" style="border-radius: 10px; margin-top: 20px;" />
 </div>
+
 ---
+
+## 📖 Tabla de Contenidos
+
+- [Acerca del Proyecto](#-acerca-del-proyecto)
+- [Características Principales](#-características-principales)
+- [Tecnologías](#-tecnologías)
+- [Instalación](#-instalación)
+- [Uso](#-uso)
+- [Roadmap](#-roadmap)
+- [Contribuir](#-contribuir)
+- [Licencia](#-licencia)
+- [Contacto](#-contacto)
+- [Apoyo](#-apoya-el-proyecto)
+- [Reconocimientos](#-reconocimientos)
+
+---
+
+## 🎯 Acerca del Proyecto
+
+**CloudNexus Simulator** es una plataforma educativa de código abierto diseñada para **estudiantes y profesionales de TI** que desean dominar la administración de identidades y accesos en **Microsoft Entra ID** (antes Azure AD).
+
+### 🌟 ¿Por qué CloudNexus?
+
+- 💰 **Sin costos de Azure**: practica sin necesidad de suscripciones de pago.  
+- 🎓 **Aprendizaje práctico**: aprende haciendo, no solo leyendo.  
+- 🏆 **Gamificación**: sistema de puntos, retos y niveles de dificultad.  
+- 🔄 **Escenarios reales**: simulaciones basadas en casos empresariales.  
+- 📱 **100% responsivo**: funciona en cualquier dispositivo.  
+
+### 🎓 Ideal para:
+
+- Estudiantes preparándose para **SC-300** (*Microsoft Identity and Access Administrator*).  
+- Administradores de sistemas en transición a la nube.  
+- Equipos de seguridad que necesitan comprender **IAM en Azure**.  
+- Instructores que buscan herramientas interactivas para enseñar.
+
+---
+
+## ✨ Características Principales
+
+### 🔐 Gestión de Identidades
+- **Usuarios y grupos:** crea, edita y organiza usuarios con roles específicos.  
+- **Autenticación multifactor (MFA):** configura MFA por usuario o por grupo.  
+- **Roles RBAC:** asigna roles personalizados y predefinidos.
+
+### ⚙️ Acceso Condicional y Seguridad
+- **Conditional Access Policies:** diseña políticas basadas en ubicación, dispositivo o riesgo.  
+- **Privileged Identity Management (PIM):** simula activaciones temporales de roles privilegiados.  
+- **Auditoría y logs:** visualiza eventos de inicio de sesión y cambios de configuración.
+
+### 🎮 Sistema de Aprendizaje
+- **3 niveles de dificultad:**  
+  - 🟢 *Fácil:* conceptos básicos de identidad.  
+  - 🟡 *Intermedio:* políticas de acceso condicional.  
+  - 🔴 *Experto:* configuraciones avanzadas de PIM y Zero Trust.  
+- **Verificación automática:** el sistema valida tus configuraciones.  
+- **Progreso persistente:** tu avance se guarda automáticamente.  
+- **Modo competencia:** compite contra el reloj en retos cronometrados.
+
+### 🎨 Interfaz Moderna
+- Diseño inspirado en el portal de Azure.  
+- Tema oscuro/claro *(en desarrollo)*.  
+- Animaciones y transiciones fluidas.  
+- Notificaciones visuales de éxito o error.
+
+---
+
+## 🛠 Tecnologías
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React 18
+    </td>
+    <td align="center" width="96">
+      <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      <br>Vite 5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript ES6+
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://lucide.dev/logo.dark.svg" width="48" height="48" alt="Lucide" />
+      <br>Lucide Icons
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+      <br>npm
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Instalación
+
+### Prerrequisitos
+- **Node.js** >= 16.x  
+- **npm** >= 8.x o **yarn** >= 1.22.x  
+- **Git**
+
+### Pasos
+
+```bash
+git clone https://github.com/Geovana78/CloudNexus-Simulator.git
+cd CloudNexus-Simulator
+npm install
+npm run dev
 
 ## 📖 Tabla de Contenidos
 
