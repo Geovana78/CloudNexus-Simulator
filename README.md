@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/icono.png" alt="CloudNexus Simulator" width="200" />
+  <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/nexo.png" alt="CloudNexus Simulator" width="200" />
 
   # ☁️ CloudNexus Simulator
 
@@ -13,8 +13,9 @@
 
   [**Demo en Vivo**](https://cloudnexus89.netlify.app) • [**Reportar Bug**](https://github.com/Geovana78/CloudNexus-Simulator/issues) • [**Solicitar Feature**](https://github.com/Geovana78/CloudNexus-Simulator/issues)
 
-  <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/icono.png" alt="CloudNexus Preview" width="600" style="border-radius: 10px; margin-top: 20px;" />
-</div>  Tabla de Contenidos
+  <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/nexo.png" alt="CloudNexus Preview" width="600" style="border-radius: 10px; margin-top: 20px;" />
+</div>  
+  Tabla de Contenidos
 
 - [Acerca del Proyecto](#-acerca-del-proyecto)
 - [Características Principales](#-características-principales)
