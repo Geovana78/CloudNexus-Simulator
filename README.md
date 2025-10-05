@@ -12,8 +12,7 @@
   [**Demo en Vivo**](https://cloudnexus89.netlify.app/) • [**Reportar Bug**](https://github.com/Geovana78/CloudNexus-Simulator/issues)
 
   <img src="https://raw.githubusercontent.com/Geovana78/CloudNexus-Simulator/main/public/icon.png" alt="CloudNexus Preview" width="600" style="border-radius: 10px; margin-top: 20px;" />
-</div>
----
+</div>---
 
 ## 📖 Tabla de Contenidos
 
