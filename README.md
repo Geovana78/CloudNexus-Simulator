@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="público/icono.png" alt="CloudNexus Simulator" width="200" />
+  <img src="./público/icono.png" alt="CloudNexus Simulator" width="180" />
 
   # ☁️ CloudNexus Simulator
 
@@ -13,9 +13,10 @@
 
   [**Demo en Vivo**](https://cloudnexus89.netlify.app/) • [**Reportar Bug**](https://github.com/Geovana78/CloudNexus-Simulator/issues) • [**Solicitar Feature**](https://github.com/Geovana78/CloudNexus-Simulator/issues)
 
-  <img src="público/Copia de WhatsApp Image 2025-10-04 a las 14.15.57.png" alt="CloudNexus Preview" width="700" style="border-radius: 10px; margin-top: 20px;" />
-</div>
+  <br><br>
 
+  <img src="./público/Copia%20de%20WhatsApp%20Image%202025-10-04%20a%20las%2014.15.57.png" alt="Vista previa de CloudNexus" width="720" style="border-radius: 10px; margin-top: 20px;" />
+</div>
 ---
 
 ## 📖 Tabla de Contenidos
